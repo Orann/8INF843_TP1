@@ -78,6 +78,6 @@ public class ApplicationClient {
         //Fin de la réinitialisation de notre fichier de résultat.
 
         //On lance le client en le faisant traiter la commande "Calc&add&3,5" :
-        ApplicationClient client = new ApplicationClient(new Commande("Calc&add&3,7"));
+        ApplicationClient client = new ApplicationClient(new Commande("Calc&add&3,5"));
     }
 }
